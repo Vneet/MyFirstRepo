@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test maven Suite" duration-ms="109" started-at="2018-06-20T20:30:17Z" finished-at="2018-06-20T20:30:17Z">
+    <groups>
+    </groups>
+    <test name="Test Maven Testing" duration-ms="109" started-at="2018-06-20T20:30:17Z" finished-at="2018-06-20T20:30:17Z">
+      <class name="com.qa.tests.Test4">
+        <test-method status="PASS" signature="Subtract()[pri:0, instance:com.qa.tests.Test4@23ceabc1]" name="Subtract" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtract -->
+        <test-method status="PASS" signature="Multiply()[pri:0, instance:com.qa.tests.Test4@23ceabc1]" name="Multiply" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:com.qa.tests.Test4@23ceabc1]" name="Sum" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.tests.Test4@23ceabc1]" name="div" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+      </class> <!-- com.qa.tests.Test4 -->
+      <class name="com.qa.tests.Test3">
+        <test-method status="PASS" signature="Multiply()[pri:0, instance:com.qa.tests.Test3@4520ebad]" name="Multiply" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.tests.Test3@4520ebad]" name="div" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="Subtract()[pri:0, instance:com.qa.tests.Test3@4520ebad]" name="Subtract" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtract -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:com.qa.tests.Test3@4520ebad]" name="Sum" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+      </class> <!-- com.qa.tests.Test3 -->
+      <class name="com.qa.tests.Test2">
+        <test-method status="PASS" signature="Multiply()[pri:0, instance:com.qa.tests.Test2@5419f379]" name="Multiply" duration-ms="16" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multiply -->
+        <test-method status="PASS" signature="Subtract()[pri:0, instance:com.qa.tests.Test2@5419f379]" name="Subtract" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subtract -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:com.qa.tests.Test2@5419f379]" name="Sum" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.tests.Test2@5419f379]" name="div" duration-ms="0" started-at="2018-06-20T16:30:17Z" finished-at="2018-06-20T16:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+      </class> <!-- com.qa.tests.Test2 -->
+    </test> <!-- Test Maven Testing -->
+  </suite> <!-- Test maven Suite -->
+</testng-results>
